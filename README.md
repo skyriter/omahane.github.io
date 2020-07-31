@@ -1,1 +1,1 @@
-[https://omahane.github.io](Christian's Github page)
+[https://omahane.github.io](Github page for Christian Burk)
