@@ -1,1 +1,1 @@
-You have reached the [https://omahane.github.io](Github page for Christian Burk).
+You have reached the https://omahane.github.io.
